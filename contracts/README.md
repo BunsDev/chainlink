@@ -42,7 +42,7 @@ $ pnpm test
 
 ## Contributing
 
-Please try to adhere to [Solidity Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE.md).
+Please try to adhere to [Solidity Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE_GUIDE.md).
 
 Contributions are welcome! Please refer to
 [Chainlink's contributing guidelines](https://github.com/smartcontractkit/chainlink/blob/develop/docs/CONTRIBUTING.md) for detailed
